@@ -1,4 +1,4 @@
-# YAPAY-ZEKA-VERİ-İŞLEME-
+# YAPAY-ZEKA-VERI-İSLEME-
 #########################################
 Veri Okuma ve Eksik Verileri Kontrol Etme
 Veriyi bir dosyadan okur ve eksik verileri kontrol eder. Bu adım, veri analizi ve modelleme süreçlerinin başlangıcında veri kümesinin kalitesini ve eksiklikleri anlamak için kullanılır.
